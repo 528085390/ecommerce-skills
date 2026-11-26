@@ -1,0 +1,2 @@
+title,body,rating,review_date,reviewer_name,reviewer_email,product_id,product_handle,reply,picture_urls,curated
+CSV format check,Local validation fixture. Do not upload.,5,01/01/2025,Example Reviewer,example.reviewer@gmail.com,,example-handle,,,spam

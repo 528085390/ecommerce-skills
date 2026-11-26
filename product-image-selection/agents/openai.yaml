@@ -1,0 +1,4 @@
+interface:
+  display_name: "选图"
+  short_description: "从商品轮播图和原始详情图按比例挑选，优先扩图补齐，记录图片来源和缺口"
+  default_prompt: "用 $product-image-selection 给当前商品选图，按默认比例用 AI 自然延展原图背景补缺，禁止色块填充，并记录来源。"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "shopify上评价"
+  short_description: "读取 Shopify 商品详情，生成评价并按授权导入 Judge.me"
